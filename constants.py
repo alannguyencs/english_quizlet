@@ -1,0 +1,6 @@
+
+NUM_QUIZLET_KEYWORDS = 10
+NUM_EXAMPLES_PER_WORD = 2
+
+VOCABULARY_PATH = "vocabulary.txt"
+QUIZLET_PATH = "quizlet.txt"
